@@ -7,9 +7,6 @@ html{
     border: 2px solid rebeccapurple;
 }
 
-
-
-
 .top-panel{
     background-color: white;
     font-family: sans-serif;
@@ -79,4 +76,11 @@ p{
     position: absolute;
     width: 150px;
     top: 70px;
+}
+
+.store-content {
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    padding: 20px;
 }
